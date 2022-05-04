@@ -2,10 +2,10 @@
 This is a repository for a Machine Learning project targeted towards Computational Drug Discovery applications. We start with selecting for a specific target protein for the drugs imported from ChEMBL Database. Getting All drugs activity data for the specific target, then calculating PaDEL molecular Descriptors for the the Substructure Molecular Fingerprints in each. Using the substructure fingerprints data as feature vectors for all drug molecules, we train a Random Forest Classifier and an SVM Classifier to predict drug activity class to see if it could be a potential drug for our selected target.
 For our study, I selected the **_SARS coronavirus 3C-like proteinase_** (PDB ID:[3VB7](https://www.rcsb.org/structure/3vb7)) which hydrolyses viral polyproteins to produce functional proteins, is essential for coronavirus replication and is considered an important therapeutic target for diseases caused by coronaviruses, including COVID-19.   
 
-<img src="images/3VB7_view0.png" alt="3VB7_view0" width="200"/>
-<img src="images/3VB7_view1.png" alt="3VB7_view1" width="200"/>
-
-    
+<p float="left">
+<img src="images/3VB7_view0.png" alt="3VB7_view0" width="600"/>
+<img src="images/3VB7_view1.png" alt="3VB7_view1" width="600"/>
+</p>
 
 ## **Padel-Descriptors**
 ### **Molecular Descriptors**
