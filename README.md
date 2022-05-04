@@ -13,7 +13,7 @@ Molecular descriptors can be defined as *__mathematical representations of molec
 ### **Molecular Fingerprints**
 Molecular fingerprints are **_a way of encoding the structure of a molecule._** The most common type of fingerprint is a series of binary digits (bits) that represent the presence or absence of particular substructures in the molecule.    
 
-![](https://drive.google.com/uc?export=view&id=1Zw81PDmITya0dBw1qCXXs_H_uKU7QJqO)      
+<img src="images/fingerprint.jpg" alt="fingerprint" width="400"/>     
 
 
 ### **PaDEL**
