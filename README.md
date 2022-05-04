@@ -3,7 +3,7 @@ This is a repository for a Machine Learning project targeted towards Computation
 For our study, I selected the **_SARS coronavirus 3C-like proteinase_** (PDB ID:[3VB7](https://www.rcsb.org/structure/3vb7)) which hydrolyses viral polyproteins to produce functional proteins, is essential for coronavirus replication and is considered an important therapeutic target for diseases caused by coronaviruses, including COVID-19.   
 
 <p align="center">
-<img src="images/3VB7_view0.png" alt="3VB7_view0" width="300"/>
+<img src="images/3VB7_view0.png" alt="3VB7_view0" width="380"/>
 <img src="images/3VB7_view1.png" alt="3VB7_view1" width="400"/>
 </p>
 
